@@ -18,7 +18,7 @@
         [X] Benennung des Aufbaus der Arbeit
 
         [X] Abgrenzung der Thematik
-            [O] Positive Abgrenzung
+			~ [ ] Positive Abgrenzung ~
             [X] Negative Abgrenzung
     
 [X] Ueberarbeitung des Methodenkapitels:
@@ -27,18 +27,17 @@
 	[X] Einordnen in das Methodensprekturms der WI
 
 [] Komplette reformulierung des fazit kapitels
-	Bei der reflektion durch alle phasen durchgehen,
-		Forschungsfrage,
-		Wahl der Methode, 
-		umsetzung,
-		was kann man selber daraus lernen?
-		was koennen andere daraus lernen?
-		hab ich den Richtigen ansatz gefahren?
-		Weche methoden weaeren villeicht sinnvoll gewehsen?
-		was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
-		war es sinnvoll diese forschungsfrage so zu waehelen?
-		habe ich die richtigen werkzeuge verwendet?
-		war es sinnvol eine POC zu machen?
+		[X] Forschungsfrage,
+		[X] Wahl der Methode, 
+		~ [ ] umsetzung ~
+		[ ] was kann man selber daraus lernen?
+		[ ] was koennen andere daraus lernen?
+		[ ] hab ich den Richtigen ansatz gefahren?
+		[ ] Weche methoden weaeren villeicht sinnvoll gewehsen?
+		[ ] was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
+		[ ] war es sinnvoll diese forschungsfrage so zu waehelen?
+		[ ] habe ich die richtigen werkzeuge verwendet?
+		[ ] war es sinnvol eine POC zu machen?
 		
 [] Ueberarbeitung der Quellen:
 	[] Google konferenz zitieren
@@ -48,3 +47,5 @@
 	primaerquellen und sekundaerkaellen sollen auch rein, da habe ich eine
 	geringe "praesentz"/quantitaet
 	reconfigurierung der aktuellen quellen
+
+[ ] Formatieren

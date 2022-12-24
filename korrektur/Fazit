@@ -15,23 +15,22 @@ Im Letzten kapitel findet eine genaue Analyse der Schwaechen des Prototyp statt,
 Dabei wird auch die Frage beantwortet, ob der Prototyp die Anforderungen erfüllt und ob er die Probleme löst, welche in dessen Umgebung identifiziert wurden.
 
 Reflektion:
+Die vorliegende Arbeit zeit, dass erfolgreich ein Prototyp erstellt worden ist, der die grundelgenden bedinungnen erfuellt, jedoch von weiteren Integrationen der Entwickelungen profitieren wuerde.
+Die dabei aus der Praxis stammende Forschungsfrage konnte durch die Erstellung des Artefaktes als solches beantwortet werden.
+Fuer die Loesung des praktischen Problemes, war die Forschungsfrage sehr gut geeignet, haette jedoch von weiteren begletenden wissenschaftlichen Fragestellungen profitieren koennen, 
+da sie als rein praktische Fragestellung in einem akademischen kontext einen zu weiten Fokus hat, welcher ohne weitere Forschungsfragen nur schwierig ausgeschoepft werden kann.
+Aehnliches gilt fuer die Methode des Prototyping, welche zwar sehr gut geeignet ist um die Anforderungen der Praxis zu loesen, 
+jedoch durch den einsatz von einer zusaectzlichen wissenschaftlichen Methodik zur fundierten erfassung der Anforderungen ergaenzt werden koennte.			
+In einer zweiten iteration des Prototyping wuerde es sich daher lohnen, die das bisherige Methodensprektrum um die der Design Science Research zu ergaenzten, um die Anforderungen der Praxis noch besser zu erfassen.
+Auch hat die Evaluation einen starken Fokus auf die Anforderungen der Praxis, wobei auch hier eine zusaetzliche wissenschaftliche Methode die Arbeit gut ergaenzen wuerde.
+Jedoch darf dabei der Zeitliche Aufwand nicht unterschaetzt werden, da die Arbeit aufgrund der Komplexitaet der Thematik und der damit verbundenen Probleme bereits sehr zeitintensiv war.
+Basieren auf dem bisher erarbeiteten Prototypen, wuerde es sich lohnen, die Entwicklung des Prototypen in eine weitere iteration zu ueberfuehren, und in dieser durch zusaetzlich methoden die erfassung der Anforderungen zu verbessern.
+Dies haette in der ersten iteration und auch in der vorliegenden Arbeit den Zeitlichen rahmen ueberschritten, weshalb dies in einer weiteren iteration durchgefuehrt werden sollte.
+Weitere einschraenkende faktoren neben dem zeitlichen Rahmen, welcher durch die Komplexitaet der Thematik und der damit verbundenen Probleme bereits ausgeschöpft war, waren die Limitationen der Hardware.
+Die zur verfuegung stehende Hardware war fuer die Entwicklung des Prototypen ausreichend, grenzte jedoch die Entwicklungsmoeglichkeiten ein.
 
-Grundsaetzlich funktioniert alles wie gewuenscht, die Geste wird erkannt und der Roboter bewegt sich entsprechend.
 
-
-eine wissesnschaftliche defintion der anforderungen waere hilfreich gewesen, um die anforderungen genauer zu definieren und um die anforderungen zu priorisieren.
-eine wissenschaftliche Evaluation nach der einfuerung des Prototypen waere hilfreich gewesen, um die anforderung fuer eine weitere iteration zu definieren
-
-		[] Forschungsfrage,
-		[] Wahl der Methode,
-			Prototyping als methode adequat, da in der praxis auch ein Prototyp erstellt werdeb sollte
-			Allerdings ist die Methode des Prototyping nur geringfuegig geeignet um die Anforderungen der Praxis zu definieren, 
-			da diese wissenschaftlich definiert werden muessen, diese jedoch durch die praktischen limitierungenn nicht immer erfuellt werden koennen.
-			Um diese besser miteinander vereinbaren zu koennen wuerde zusaetzlich eine tiefgreifendere anwendung der Design Science Research Methode notwendig sein.
-			Allerdings ist diese Methode fuer die vorliegende Arbeit nicht geeignet, da diese zu komplex und zu zeitintensiv waere.
-			Allerdings ist es moeglich, dass die Design Science Research Methode fuer eine weitere iteration der Arbeit geeignet ist.
-
-		[] was kann man selber daraus lernen?
+	[] was kann man selber daraus lernen?
 			Programmierung von Robotern mit RobotStudio und RAPID
 			Programmierung von Gestenerkennung mit Python und OpenCV
 			Systematisches Vorgehen bei der Entwicklung von Prototypen
@@ -64,5 +63,4 @@ Dabei wurde die Grundfunktionalität einer Gestenerkennung demonstriert, welche 
 Der Prototyp wurde in der Firma  Hewlett Packard Enterprise (HPE) entwickelt und ist in der Praxis bereits im Einsatz. 
 Weitere entwickelung in form sind wie von vornherein geplant, weshalb die einfache wartung ein wichtiger aspekt dieser Arbeit war.
 Die Entwicklung des dieses Artefaktes hat gezeigt, dass die Methode des Prototyping nach Cole et al. [Quelle] sehr gut geeignet ist um in der einen Prototypen zu entwickeln,
-welcher die Anforderungen der Praxis erfüllt.
-
+welcher die Anforderungen der Praxis erfüllt. 
