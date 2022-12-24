@@ -1,0 +1,64 @@
+Einleitung:
+
+Die intuitive Kollaboration zwischen Menschen und Maschine bietet ein hohes Potential in der Weiterentwicklung der industriellen Produktion.
+Denn sie ermöglicht gleichzeitig die Nutzung der hohen Flexibilität und strategische Entscheidungsfähigkeit eines menschlichen Akteurs,
+ohne dabei auf die Effizienz und Geschwindigkeit eines Roboters verzichten zu müssen.
+Bisher war es aufgrund der limitierten Wahrnehmungsfähigkeit von maschinellen Systemen und dem daraus resultierendem Unfallpotential
+nur beschränkt möglich Mensch und Robotik direkt miteinander interagieren zu lassen[1].
+
+Durch große Fortschritte in der Echtzeitverarbeitung von Sensordaten,
+insbesondere im Bereich von Computer-Vision, rückt die gestenbasierte Interaktion zwischen Mensch und Maschine langsam in den Bereich des Möglichen.[2]
+Da der Themenbereich der Robotik auch für die Kunden der HPE interessant ist,
+wurde im Rahmen des Customer Technologie Center (CTC) eine einfache Kundendemonstration mit einem ABB 1400 YuMi entwickelt.
+Das Ziel dieser Demonstration ist es, in Form eines semipermanenten Ausstellungsstücks im CTC, bei Kunden einen positiven Eindruck zu hinterlassen und als Konversationsstarter zu funktionieren.
+Zusätzlich ist geplant die Demo mit auf Messen zu nehmen, um die Aufmerksamkeit von potenziellen Bewerbern auf sich zu ziehen.
+
+Die bisherige Demonstration implementierte den Roboter nur auf eine primitive Weise,
+denn dieser muss manuell gestartet werden und hat kaum Möglichkeiten auf Veränderungen in seinem Umfeld zu reagieren.
+Darüber hinaus ist die Routine, die er durchläuft, kein geschlossener Zyklus, weshalb nach jedem Durchlauf das Objekt,
+elches er bewegt wieder per Hand in die Ursprungs Konfiguration gebracht werden muss.
+
+Um diese Demonstration zum einen näher an die Thematik der Industrie 4.0 zu bringen und zum anderen als Kundendemonstration interaktiver zu machen,
+wurde nun eine Microsoft Kinect V2 angeschafft und die Anforderung gestellt mit dieser eine Weiterentwicklung der Showcase umzusetzen.
+
+Um dies zu erreichen, wird via des Prototyping Prozesses nach Cole et. Al. ein Artefakt erstellt.
+Aus dem Ersten Schritt der Prototyping Methode, der Problemdefinition, wird das problem als solches definiert und analysiert.
+Aus dieser Analyse entspringt auch die zentrale Forschungsfrage, welche die Arbeit leitet:
+Wie kann ein showcase basierend auf einer Microsoft Kinect V2 eine Gestenerkennung implementiert werden,
+welche automatisch Bewegungsroutinen des Roboters ausloesst um die Aufmerksamkeit von Kunden zu erregen?
+Um diese Frage zu beantworten, wird im Rahmen dieser Arbeit eine Iteration des Prototypingprozesses durchgeführt und als Prototyp ein Showcase erstellt.
+
+Durch die Limitierten ressourcen in der Praxis ergibt sich, dass sich die implementierund der Gestenerkennung sich auf eine einfach Geste beschränken muss.
+Da die Verarbeitung von komplexen Bewegungen und 3 Dimensionalen Bildern aufgrund von mangelnder Rechenkapazität nicht möglich ist und koennen diese im Rahmen dieser Arbeit nicht betrachtet werden.
+Im speziefischen wurde sich hierbei fuer die Geste des Winkens entschieden, da dies eine simple, leit und leicht zu erkennende Geste mit viel aussagekraft ist. [BELEG]
+Die Implementierung der Gestenerkennung auf die Microsoft Kinect V2 beschränkt, da diese die einzige verfügbare Hardware ist.
+Dabei soll die Implementierung in Python erfolgen, da dieses die beste Kompromiss zwischen leistung und einfacher Programmierung darstellt
+und die lernkurve fuer zukuenftige Weiterentwicklung gering ist.
+Ausnahme bildet hierbei die Implementierung der Bewegungsroutinen, welche in RAPID oder ROS er muss, da die ABB YuMi nur mit diesen Sprachen programmiert werden kann.
+Da die bereits bestehende Demo in RAPID programmiert ist, soll die Implementierung der Bewegungsroutinen in RAPID erfolgen.
+
+Nach der Einleitung und der Problemdefinition, wird in Kapitel 2 die Theoretische Grundlage der Arbeit beschrieben.
+Hierbei wird zuerst die Robotik und im speziefischen die subkategorie der Kooperativen Robotik beschrieben.
+Darauf folgt eine einfuerng in das Marketing Thema des Showcases und eine begriffsdefinition dessen.
+Schliesslich werden noch die Grundlagen der Comuter Vision beschrieben.
+
+Nachdem im die Theoretische Grundlage beschrieben wurde, wird in Kapitel 3 die Methode der Arbeit beschrieben.
+Hierbei wird das Prototyping nach Cole et. Al. beschrieben und die einzelnen Schritte der Arbeit erläutert.
+Ab diesem Punkt orientiert sie die Sturktur der Arbeit an den in der Methodik beschrieben Prozessen.
+
+Denn in Kapitel 4 wird die Problematik definiert und analysiert,
+die in diesem Schritt formulierten kriterien fuer den bilden die Grundlage,
+sowohl fuer die Implementierung des Loesungsansatzes als auch fuer die Evaluation der Arbeit.
+
+Die Implementierung des Loesungsansatzes erfolgt in Kapitel 5 in form der Intervention.
+Hierbei wird zuerst die Programmierung des Roboters mithilfe von RobtStudio beschrieben. 
+Darauf folgt die Implementierung des Kinectbasierten ComputerVision modules und dem Algorithmus zur Erkennung des Winkens.
+Schliesslich wird die Integration der beiden Module durch den Zentrallen Kontrollserver beschrieben.
+
+Die Evaluation der Arbeit erfolgt in Kapitel 6.
+Hierbei wird die in Kapitel 5 beschriebene Intervention anhand der in Kapitel 4 formulierten Kriterien Evaluiert.
+Zusaetzlich werden Loesungsansaetze fuer die Probleme, die sich bei der Implementierung ergeben haben beschrieben,
+welche in einer Zweiten Iteration des Prototyping addresiert werden koennten.
+
+Im Kapitel 7 wird die Arbeit abschliessend zusammengefasst und die Ergebnisse der Arbeit diskutiert.
+Dabei wird auch die struktur der Arbeit und die Methodik der Arbeit kritisch reflektiert.

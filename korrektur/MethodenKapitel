@@ -1,0 +1,118 @@
+Notizen:
+Das Methodenkapitel (Kap. 2, Prototyping) ist zu kurz, es fehlt die Einordnung ins Methodenspektrum der WI und eine Liste wis-
+senschaftlicher Referenze
+
+
+Seite 6:
+Entwicklung und Test von Prototypen: 12 Die Methode mit dem plastischsten
+Konstruktionsbezug ist vermutlich das Prototyping. Es wird eine schnell ver-
+fügbare, lauffähige Vorabversion eines Anwendungssystems entwickelt und
+evaluiert. Typische Varianten sind Oberflächen- oder Funktionsprototypen, de-
+ren Fokus entsprechend auf der Analyse einer Benutzerschnittstelle oder z. B.
+einem „Proof-Of-Concept“ liegt. Der Entwicklung von Prototypen können zahl-
+reiche Arbeiten zu möglichen Vorgehensmodellen zugrunde gelegt werden.
+Umfasst das Prototyping einen Evaluationsschritt, handelt es sich um eine, im
+obigen Sinne vollständige Methode
+
+Seite 13:
+Prototyping und Aktionsforschung gehen jeweils konstruktiv vor, können
+aber im Rahmen der Evaluationszyklen 30 in Ansätzen empirisch arbeiten. Sie könn-
+ten je nach konkreter Ausgestaltung zwischen +2 und +4 positioniert werden und
+sind somit gemittelt auf +3 einzuordnen.
+
+
+developed a method for conducting research based on design
+science. They focus on research conducted in the area of information systems, in
+which methods should be implemented that may contribute to academic research-
+ers and to professionals in organizations.
+The text suggests combining the design science approach with a consolidated
+research method—action research (Cole et al. 2005). The authors propose a research
+method that is a synthesis of action research and the central concepts of design sci-
+ence. The integration of these research methods is interesting, especially regarding
+the design or construction of an artifact in a real context/environment. This type
+of artifact, which is referred to as instantiation, may also require the interaction
+between the researcher and the members of an organization in which the artifact will
+be constructed. Therefore, the use of elements of action research can contribute to
+the success of the research and intervention in the organization. Figure 4.13 shows
+the steps for conducting research as proposed by Cole et al. (2005).
+The first step of the method—problem identification—concerns the identifica-
+tion of the problem and considers two core aspects: understanding the problem
+and understanding the interests of persons involved in solving this problem, con-
+sidering the practical relevance of the problem for all involved (Cole et al. 2005).
+The second step—intervention—corresponds to the construction of an artifact to
+solve the problem and intervention to provide change in the organization (Cole
+et al. 2005)
+The third step concerns the evaluation of both the artifact that was constructed
+and the change observed in the organization (Cole et al. 2005). In this step, the
+researcher determines whether the artifact and the intervention satisfy the objec-
+tives. According to Cole et al. (2005), the last step—reflection and learning—
+ensures that the research serves as a basis for the generation of knowledge in
+practical and theoretical fields. The contributions of these studies are consistent
+with the expectations of the research, in which the objective is to reduce the exist-
+ing gap between theory and practice.
+
+S170
+Wirtschaftsinformatik-Forschung für die Praxis2.2 Aktionsforschung (action research) 
+
+Aktionsforschung basiert auf der Idee, dass komplexe soziale Gefüge gut zu durch-
+dringen sind, indem in ihnen Veränderungen implementiert und deren Effekte unter-
+sucht werden. Damit steht eine Intervention im Mittelpunkt, die konkrete Probleme
+adressiert und Veränderung herbeiführen soll. Die Extraktion von theoretischem
+Wissen wird jedoch nicht vernachlässigt. Die Aktionsforschung ist daher eine Form
+der Forschung, bei der der Forscher ähnlich wie bei der partizipativen Fallstudie
+aktiv eingreifen und problemlösend wirken kann, ohne sich der starken Kritik aus-
+zusetzen, nicht abgrenzbar von Beratung sein zu können: „it aims to solve current
+practical problems while expanding scientific knowledge“ (Baskerville und Myers
+2004, S. 329).
+Aktionsforschung wird typischerweise in enger Kollaboration zwischen Forschern
+und Forschungssubjekten (Praktikern) sowie in Iterationen durchgeführt und fußt
+auf gemeinsamem Lernen im Kontext des sozialen Gefüges der beteiligten Prak-
+tiker (d. h. in der so genannten client-system infrastructure). Dabei werden zwei
+Abschnitte unterschieden: ein diagnostischer, in dem die soziale oder soziotechni-
+sche Situation gemeinsam analysiert und erste Theorien identifiziert bzw. entwickelt
+werden, und ein therapeutischer, in dem Veränderung implementiert und in ihren
+Wirkungen untersucht wird. Die Explikation einer Theorie vor der Intervention ist
+von besonderer Bedeutung, um die Intervention und ihre Zielsetzung zu begründen.
+Über das Ergebnis der Intervention in der Praxis wird die Theorie validiert und
+ggf. angepasst. Die Planung, Gestaltung und Umsetzung der Handlung sowie die
+Reflexion werden kollaborativ durchgeführt (Baskerville und Myers 2004).
+Aktionsforschung bleibt trotz des Eingriffs in die Praxis und der potentiellen
+Erarbeitung konkreter Problemlösungen ein Forschungsprozess, der sich deutlich
+z. B. von der Beratung (siehe Tab. 1) unterscheidet
+
+
+Neu:
+
+Methodenkapitel: Prototyping
+
+Das in dieser Arbeit verwendete Prototyping basiert auf von Cole et al. (2005) conzeptionierten Methode des Prototyping,
+welcher versucht die elemente des Design Science Ansatzes mit der Aktionsforschung zu verbinden.
+Ziel dabei ist es nicht nur einen Protoypen zu entwickeln welcher ein gegebenes problem den anforderungen entsprechend loest,
+sondern auch durch eine detailierte analyse des entwickelten Prototypen und dessen einfluesse auf sein umwelt ein verstaendniss ueber das system als solches zu erlangen.
+Die Methode nach Cole et al. (2005) ist grundsaetzlich ein iterativer Prozess, welcher solange durlaufen werden kann bis man sich der Idealen loeseung adequat angenaehert hat.
+Dieser setzt sich aus 4 zentralen Schritten zusammen: 
+
+1. Problemidentifikation:
+    In diesem Schritt gilt es das Problem als solches zu identifizieren und zu verstehen, welche auswirkungen eine Loesung desselben auf das entsprechende environment haben wird.
+    Zudem ist es wichtig die Interessen der beteiligten Personen zu verstehen und zu beruecksichtigen, 
+    um eine Loesung zu finden welche auf praktischer ebene einen Kompromiss zwischen den Interessen der beteiligten Personen darstellt.
+
+2. Intervention:
+    In diesem Schritt wird der Prototyp entwickelt und in form einer Intervention in die entsprechende Umgebung eingesetzt.
+    Dabei ist es wichtig die Loesung des Problems zu beruecksichtigen und die Auswirkungen auf das Umfeld zu verstehen.
+    Ziel ist es eine Loesung zu finden welche die Anforderungen des Problems erfuellt und eine zielgerichtete Veranderung im Umfeld bewirkt.
+
+3. Evaluation:
+    In diesem Schritt wird die Loesung des Problems und die Veranderung im Umfeld evaluiert.
+    Dabei ist es wichtig zu pruefen ob die Loesung des Problems und die Veranderung im Umfeld die gestellten Ziele erfuellen.
+    Zudem ist es wichtig die Loesung des Problems und die Veranderung im Umfeld zu verstehen und zu analysieren.
+    Zusaetzlich werden schritte formuliert, wie in einer naechsten Iteration die Loesung des Problems und die Veranderung im Umfeld verbessert werden kann
+    und auf auf welche Weise die Loesung des Problems und die Veranderung im Umfeld in die Umgebung integriert werden kann.
+
+4. Reflektion und Lernen:
+    Dies ist einer der wichtigsten schritte, da diese der Punkt ist, an welchem neues issen, sowohl theoretisch als auch praktisch, generiert wird. [Beleg mit den Methoden der WI] 
+    Dabei werden die Ergebnisse der Evaluation genutzt um ein besser verstaendniss des Problems und dessen Umwelt zu erlangen aber auch um abstraktes wissen uber den loesungsansatz und prozess zu generieren.
+    Zudem wird das Verstaendniss der beteiligten Personen ueber das Problem und dessen Umwelt verbessert und die Loesung des Problems und die Veranderung im Umfeld in die Umgebung integriert.
+
+Als Methodik ist das Prototyping unter dem konstruktivistischen Ansatz zu subsumieren, da die Methode darauf abzielt die gegebenheiten der Realitaet zu verstehen und zu veranderen. [Beleg mit den Methoden der WI]
+Jedoch bietet sie das potential nicht nur qualitative erkenntnisse zu dem speziefischen und aehnlchen problemen zu generieren, sondern kann druch die grundlegend iterative Natur auch einen empirischen Ansatz verfolgen. [Beleg mit den Methoden der WI]

@@ -1,0 +1,50 @@
+
+[X] Komplette Reformulierung der Einleitung:
+	Aus der Einführung lassen sich die wesentlichen Informationen nur schwierig extrahieren. 
+    Das Ziel wird genannt, aber die Forschungsfragen, die Methoden, die Eigenbeiträge und der Aufbau der Arbeit fehlen.  
+	Beim Thema wäre es gut eine positive und negative Abgrenzung vorzunehmen. Erst im Laufe der Lektüre der Arbeit werden die  
+	einzelnen Punkte und Beiträge der Arbeit klarer.  
+	Die Gliederung ist ein wenig unglücklich, denn nach den Grundlagen, folgt das Methodenkapitel Prototyping, aber die Kapitel 5  
+	Intervention, Kapitel 6 Evaluation und Kapitel 7 Learning sind mit ihren Titeln wenig erklärend oder sprechend.  
+	Die Thematik der Programmierung eines Roboters ist bekannt und ist nur unterdurchschnittlich schwierig.
+	in der Einleitung soll ich auch ausdreucklich aufschreiben, dass die struktur der arbeit an cole et all orientiert ist oder kapitel unbenennen
+	Ich sollte in der einleitung uber die ziele die forschungsfragen, was ich machen will und was ich nicht machen will
+	kritik an den kapiteluberschriften
+
+    [X]Bennenun der Themen
+        [X] Benennung der Forschungsfrage
+        [X] Benennung der Methoden
+        [X] Benennung der Eigenbeiträge
+        [X] Benennung des Aufbaus der Arbeit
+
+        [X] Abgrenzung der Thematik
+            [O] Positive Abgrenzung
+            [X] Negative Abgrenzung
+    
+[X] Ueberarbeitung des Methodenkapitels:
+    ~ [] Umbenennung der Kapitel ~
+    [X] Erleuterung des genauen prozesses des Prototyping in beziehung zur pa
+	[X] Einordnen in das Methodensprekturms der WI
+
+[] Komplette reformulierung des fazit kapitels
+	Bei der reflektion durch alle phasen durchgehen,
+		Forschungsfrage,
+		Wahl der Methode, 
+		umsetzung,
+		was kann man selber daraus lernen?
+		was koennen andere daraus lernen?
+		hab ich den Richtigen ansatz gefahren?
+		Weche methoden weaeren villeicht sinnvoll gewehsen?
+		was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
+		war es sinnvoll diese forschungsfrage so zu waehelen?
+		habe ich die richtigen werkzeuge verwendet?
+		war es sinnvol eine POC zu machen?
+		
+[] Ueberarbeitung der Quellen:
+	[] Google konferenz zitieren
+	3-4 Seiten
+	stakcoverflow verwenden oder ein youtube video
+	auch da gibt es FAQs, weiterreichende Programmier tutorien(nachtraegliche idee: github repos) 
+	primaerquellen und sekundaerkaellen sollen auch rein, da habe ich eine
+	geringe "praesentz"/quantitaet
+	reconfigurierung der aktuellen quellen

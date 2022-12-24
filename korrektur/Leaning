@@ -1,0 +1,68 @@
+
+Zusammenfassung:
+Ziel dieser Arbeit war es zu Untersuchen, in wie fern ein kundenshowcase basierend auf einer Microsoft Kinect V2 eine Gestenerkennung implementiert werden kann,
+welche automatisch Bewegungsroutinen des Roboters ausloesst um die Aufmerksamkeit von Kunden zu erregen.
+Dazu wurde eine Proof of Concept (POC) erstellt, welche die Grundfunktionalitaet einer solchen Gestenerkennung demonstriert.
+In dem Kapitel Methodik wurde dementsprechen die Grundkozeption der Robotik,des Showcases und der Computervision erläutert.
+In dem Kapitel der Methodik wurde dann die wissesnschaftliche Methode der Prototyping vorgestellt und dementsprechend das vorgehen der Arbeit beschrieben.
+Das Kapitel der Problem Identifizierung skiziert den Kontext, die Umgebung und die Probleme, welche durch den Prototypen addresiert werden sollen.
+Das darauffolgende Kapitel der Intervention beschreibt die Umsetzung der drei Zentralen Komponenten des Prototypen und deren Integration.
+Zuerst wurde die Programmierung des Roboters mit hilfe von RobotStudio und der Programmiersprache RAPID beschrieben.
+Danach wurde die entwickelung der Gestenerkennung mithilfe der Microsoft Kinect V2 und der Programmiersprache Python und die verwendeten ComputerVision bibliotheken beschrieben.
+Um die Geste des Winkens zu erkennen wurde auch ein heuristischer Algorithmus entwickelt.
+Schliesslich wurde die Integration der beiden Komponenten durch die Entwicklung einer Schnittstelle beschrieben welche sich auf einem seperaten Kontrollserver befindet.
+Im Letzten kapitel findet eine genaue Analyse der Schwaechen des Prototyp statt, dabei wird nach den Anforderungen vorgegangen, welche im ersten Schritt der Methode des Prototyping identifiziert wurden.
+Dabei wird auch die Frage beantwortet, ob der Prototyp die Anforderungen erfüllt und ob er die Probleme löst, welche in dessen Umgebung identifiziert wurden.
+
+Reflektion:
+
+Grundsaetzlich funktioniert alles wie gewuenscht, die Geste wird erkannt und der Roboter bewegt sich entsprechend.
+
+
+eine wissesnschaftliche defintion der anforderungen waere hilfreich gewesen, um die anforderungen genauer zu definieren und um die anforderungen zu priorisieren.
+eine wissenschaftliche Evaluation nach der einfuerung des Prototypen waere hilfreich gewesen, um die anforderung fuer eine weitere iteration zu definieren
+
+		[] Forschungsfrage,
+		[] Wahl der Methode,
+			Prototyping als methode adequat, da in der praxis auch ein Prototyp erstellt werdeb sollte
+			Allerdings ist die Methode des Prototyping nur geringfuegig geeignet um die Anforderungen der Praxis zu definieren, 
+			da diese wissenschaftlich definiert werden muessen, diese jedoch durch die praktischen limitierungenn nicht immer erfuellt werden koennen.
+			Um diese besser miteinander vereinbaren zu koennen wuerde zusaetzlich eine tiefgreifendere anwendung der Design Science Research Methode notwendig sein.
+			Allerdings ist diese Methode fuer die vorliegende Arbeit nicht geeignet, da diese zu komplex und zu zeitintensiv waere.
+			Allerdings ist es moeglich, dass die Design Science Research Methode fuer eine weitere iteration der Arbeit geeignet ist.
+
+		[] was kann man selber daraus lernen?
+			Programmierung von Robotern mit RobotStudio und RAPID
+			Programmierung von Gestenerkennung mit Python und OpenCV
+			Systematisches Vorgehen bei der Entwicklung von Prototypen
+			Prototyping als Methode fuer die Entwicklung von Prototypen
+
+
+		[] hab ich den Richtigen ansatz gefahren?
+			ja, da die anforderungen erfuellt wurden und die Probleme geloest wurden
+			jedoch haette ein bisschen mehr Design sience reseacrch nicht geschadet
+			die Problemdefinition haette wissenschaftlicher sein koennen
+			die endgueltige Evaluation haette weitere wissenschaftliche Methoden benoetigt
+			weitere iterationen waeren hilfreich gewesen, aber im zeitlichen Rahmen nicht moeglich
+
+		[] was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
+			Hardware Limitationen seitens der Firma
+			zeitliche Limitationen seitens der Firma
+			Complexitaetslimitationen seitens der Firma (wartung durch nachfolgende studenten)
+
+		[] habe ich die richtigen werkzeuge verwendet?
+			die ferwendung von RobotStudio und RAPID war sinnvoll, da diese die vorgesehne software fuer
+			die programmierung von Robotern sind und auf schnelle und einfache weise die notwendigen funktionen zur verfuegung stellen
+			jedoch haette eine probrammierung auf basis von ROS deutchlich mehr moeglichkeiten geboten waere.
+			Python, numpy und OpenCV sind klassische Werkzeuge fuer die  und die ComputerVision und volkommen ausreichend fuer die gestenerkennung
+			anstelle von mediapipe haette auch die verwendung der Microsoft Kinect V2 SDK moeglich gewesen, jedoch nicht mehr unterstuetz und nicht mehr weiterentwickelt wird
+
+
+Fazit und  Ausblick:
+Die vorliegende Arbeit zeigt, dass das der Prototyp die Anforderungen erfüllt und die Probleme löst.
+Dabei wurde die Grundfunktionalität einer Gestenerkennung demonstriert, welche automatisch Bewegungsroutinen des Roboters auslöst um die Aufmerksamkeit von Kunden zu erregen.
+Der Prototyp wurde in der Firma  Hewlett Packard Enterprise (HPE) entwickelt und ist in der Praxis bereits im Einsatz. 
+Weitere entwickelung in form sind wie von vornherein geplant, weshalb die einfache wartung ein wichtiger aspekt dieser Arbeit war.
+Die Entwicklung des dieses Artefaktes hat gezeigt, dass die Methode des Prototyping nach Cole et al. [Quelle] sehr gut geeignet ist um in der einen Prototypen zu entwickeln,
+welcher die Anforderungen der Praxis erfüllt.
+

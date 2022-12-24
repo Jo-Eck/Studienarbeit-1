@@ -1,0 +1,165 @@
+Gespraechs notes gespraech mit kessel:
+Gedaechtniss protokoll
+
+Bemaengelung der Evaluierung:
+	Evaluation der Ergebnisse trennen.
+	Im Schlussteil oder im Kapitel Learning fragen, 
+		hab ich den Richtigen ansatz gefahren?
+		Weche methoden weaeren villeicht sinnvoll gewehsen?
+		was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
+		war es sinnvoll diese forschungsfrage so zu waehelen?
+		habe ich die richtigen werkzeuge verwendet?
+		war es sinnvol eine POC zu machen?
+		vorgehensweise
+		Was sind fuer mich die Konzequentzen oder lern erfahungen?
+	Wurde von Kessel nicht notwendigerweise in dem kapitel Evaluation gesehen:
+		denn in der Evaluation zeige ich, dass ich es so gebaut habe, dass es meiner spezifikation entspricht
+	Die Kritische evaluation soll aber eine metha uberpruefung sein
+Was er nicht gesehen hat war ein Schlussteil (den man auch so nennt)
+das learning ausbauen zu lessons learned und auch kritische reflektion
+und auch nochmal eigenbeitrage zusammenfassen
+
+-> gegenfrage, wie wuerde soetwas aussehen?
+war es geschickt die forschungsfrage so zu stellen, oder haette man diese enger stellen muessen? oder weiter oder einem anderen Kontext
+
+Bei der reflektion durch alle phasen durchgehen,
+Forschungsfrage,
+Wahl der Methode, 
+umsetzung,
+was kann man selber daraus lernen?
+was koennen andere daraus lernen?
+
+bei meinen kapitel leraning besteht der Ansatz, aber nicht wirklich kritisch
+es geht nicht darum sich selbst schlet zu machen, aber drauf prinzipielle schwachpunkte der argumentation.
+was kann man kritisieren, was war gut, was war schlecht?
+
+diese Kritische reflektion moechte er sehen!
+und dann.
+
+
+gegen frage wie mache ich dass dann mit der seitenzahl?
+antwort: ganz einfach da kuertzen sie die grundlagen
+darafhin nochmal nachgefragt, weil in der vergangenheit betont wurde, dass die grundlagen wichtig seien und nicht zu kurz ausfallen sollten. 
+Antwort: die grundlagen ist was man schon hundert mal gelesen hat,
+ist einfach aus gutaachter sicht.. statdessen soll ich lieber umfangreich zeigen, was meine eigenleistungen waren.
+
+Kritik der Rechtschreibung
+bei schlechter rechtschreibung werden gutachter voreingenommen
+
+#### Unterdurchschnittliche anzahl an quellen
+durchschnitt seien 3-4 Seiten
+warum reitet er auf der Quellen arbeit herun? sehr gute frage @kessel
+die quellen arbeit mach 30 aus 
+
+bei der quellenarbeit koennte ich "ganz locker" auf meine 24 punkte kommen
+wenn ich mehr quellen habe
+aus unterschiedlichen quellen kategorien (Zeitschriften artikel, konferenzbeitrage )
+	-> hohes mass an qualitaet und aktalitaet
+	wenn ich aktuelle entwickulng drin haben moechte
+hochwertige zeitschriften mit reputation
+quantitaet, diversitaet, qualitaet
+
+Frage: bei einem sehr praktischen projekt und einem POC ist die doch die ultimative quelle die informationen vom hersteller
+
+Praxisnahe papiere:
+	neben den hersteller dokumenten
+	zeitschriften, konferenzen
+	tutorials, blogs 
+		
+primaerquellen und sekundaerkaellen sollen auch rein, da habe ich eine geringe "praesentz"/quantitaet
+
+[er schaut es sich an]
+2 Iso normen
+das handbuch von ABB 
+	-> zusaetzlich gibt es auch noch vom hersteller ein FAQ, ein Tutorium, nen blog (so moechte er dass sehen)
+	-> bei kinect habe ich nur 1 dokumen
+		auch da gibt es FAQs, weiterreichende Programmier tutorien(nachtraegliche idee: github repos) die man entsprechend zitieren kann
+
+frage:
+praktisch gesehen, code ich einfach trauf los, schreibe auf was ich gemacht habe  und bevor ich und belege dann entsprechende behaubtungen mit der primaer quelle.
+wenn ich keinen bedarf an weitern quellen habe, soll ich dann trozdem weitere hinzufuegen? 
+kessel: ganau, sie werden ja auch codebeispiele aus anderen quelle holen oder stakcoverflow verwenden oder ein youtube video
+dass zeigt dass sie in der Lage sind andere quellen  zu verwenden wissen 
+
+
+kritische auseinandersetzung mit den quellen
+technische spezigfikation des hersteller ist ganz forne
+dev cominity hat vileeicht herausgefunden dass es nicht ganz so ist
+welche papiere haben in der abwaegung mehr gewicht?
+in welche richtung gehen die meisten anderen?
+
+wenn sie 12 punkte mehr bekommen und das kriegen sie, wenn sie auf qulitaet quatitaet unddiversitaet achten dann kommen sie weiter, da springen sie ganz locker in den bestandenen bereich
+
+# themenerfassung
+die aktivitaet beschraenkt sich auf 3 seiten 
+sie nnenen zwar das ziel 
+man muehe ihre forschungsfrage zu sehen, ihre methoden,  vorgehensweise, eigenbeitrage, und auch den aufbau der arbeit
+das ist schlecht
+man liesst als gutachter und weis nicht wass sie eig, zeigen wollen
+wenn sie dass hinbekommen haetten, haetten sie bestanden
+
+es geht nicht darum sie zu qualen lol
+SoGeHtEsNiChT 
+
+ich sollte in der einleitung uber die ziele die forschungsfragen, was ich machen will und was ich nicht machen will
+
+in der Einleitung soll ich auch ausdreucklich aufschreiben, dass die struktur der arbeit an cole et all orientiert ist oder kapitel unbenennen
+
+kritik an den kapiteluberschriften
+
+Kinect und Roboter gibt es schon so lange ... dehalb wurde die arbeit schlecht bewertet
+sind schon seit jahrzehnten bekannt
+
+Methodenkapitel ist ein bisschen zu kurtz
+einordenen in das methodenspektrum der wirtschaftsinformatik
+
+
+wie ist meine thematische vorgensweise
+nach welchem vorgehensmodell
+
+Quellenverzeihniss und einleitung, das sollte ausreichen
+methodenkapitel uberarbeiten
+
+
+
+## TODO:
+
+Komplette Reformulierung der Einleitung:
+	Aus der Einführung lassen sich die wesentlichen Informationen nur schwierig extrahieren. Das Ziel wird genannt,  
+	aber die Forschungsfragen, die Methoden, die Eigenbeiträge und der Aufbau der Arbeit fehlen.  
+	Beim Thema wäre es gut eine positive und negative Abgrenzung vorzunehmen. Erst im Laufe der Lektüre der Arbeit werden die  
+	einzelnen Punkte und Beiträge der Arbeit klarer.  
+	Die Gliederung ist ein wenig unglücklich, denn nach den Grundlagen, folgt das Methodenkapitel (Prototyping), aber die Kapitel 5  
+	(Intervention), Kapitel 6 (Evaluation) und Kapitel 7 (Learning) sind mit ihren Titeln wenig erklärend oder sprechend.  
+	Die Thematik der Programmierung eines Roboters ist bekannt und ist nur unterdurchschnittlich schwierig.
+	in der Einleitung soll ich auch ausdreucklich aufschreiben, dass die struktur der arbeit an cole et all orientiert ist oder kapitel unbenennen
+	Ich sollte in der einleitung uber die ziele die forschungsfragen, was ich machen will und was ich nicht machen will
+	kritik an den kapiteluberschriften
+
+
+Ueberarbeitung des Methodenkapitels:
+	Integratopm des Methodensprekturms der WI
+
+Komplette reformulierung des fazit kapitels
+	Bei der reflektion durch alle phasen durchgehen,
+	Forschungsfrage,
+	Wahl der Methode, 
+	umsetzung,
+	was kann man selber daraus lernen?
+	was koennen andere daraus lernen?
+	hab ich den Richtigen ansatz gefahren?
+	Weche methoden weaeren villeicht sinnvoll gewehsen?
+	was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
+	war es sinnvoll diese forschungsfrage so zu waehelen?
+	habe ich die richtigen werkzeuge verwendet?
+	war es sinnvol eine POC zu machen?
+	vorgehensweise
+	Was sind fuer mich die Konzequentzen oder lern erfahungen?
+
+Ueberarbeitung der Quellen:
+	3-4 Seiten
+	stakcoverflow verwenden oder ein youtube video
+	auch da gibt es FAQs, weiterreichende Programmier tutorien(nachtraegliche idee: github repos) 
+	primaerquellen und sekundaerkaellen sollen auch rein, da habe ich eine
+	geringe "praesentz"/quantitaet
+	reconfigurierung der aktuellen quellen
