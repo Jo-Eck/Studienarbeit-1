@@ -30,14 +30,14 @@
 		[X] Forschungsfrage,
 		[X] Wahl der Methode, 
 		~ [ ] umsetzung ~
-		[ ] was kann man selber daraus lernen?
-		[ ] was koennen andere daraus lernen?
-		[ ] hab ich den Richtigen ansatz gefahren?
-		[ ] Weche methoden weaeren villeicht sinnvoll gewehsen?
-		[ ] was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
-		[ ] war es sinnvoll diese forschungsfrage so zu waehelen?
-		[ ] habe ich die richtigen werkzeuge verwendet?
-		[ ] war es sinnvol eine POC zu machen?
+		~ [ ] was kann man selber daraus lernen? ~
+		~ [ ] was koennen andere daraus lernen? ~
+		[X] hab ich den Richtigen ansatz gefahren?
+		[X] Weche methoden weaeren villeicht sinnvoll gewehsen?
+		[X] was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
+		[X] war es sinnvoll diese forschungsfrage so zu waehelen?
+		[X] habe ich die richtigen werkzeuge verwendet?
+		~ [ ] war es sinnvol eine POC zu machen? ~
 		
 [] Ueberarbeitung der Quellen:
 	[] Google konferenz zitieren

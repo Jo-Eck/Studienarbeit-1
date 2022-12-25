@@ -1,61 +1,39 @@
 
 Zusammenfassung:
-Ziel dieser Arbeit war es zu Untersuchen, in wie fern ein kundenshowcase basierend auf einer Microsoft Kinect V2 eine Gestenerkennung implementiert werden kann,
+Ziel dieser Arbeit war es zu Untersuchen, in wie fern ein kundenshowcase basierend auf einer Microsoft Kinect V2, eine Gestenerkennung implementiert werden kann,
 welche automatisch Bewegungsroutinen des Roboters ausloesst um die Aufmerksamkeit von Kunden zu erregen.
 Dazu wurde eine Proof of Concept (POC) erstellt, welche die Grundfunktionalitaet einer solchen Gestenerkennung demonstriert.
-In dem Kapitel Methodik wurde dementsprechen die Grundkozeption der Robotik,des Showcases und der Computervision erläutert.
-In dem Kapitel der Methodik wurde dann die wissesnschaftliche Methode der Prototyping vorgestellt und dementsprechend das vorgehen der Arbeit beschrieben.
+In dem Kapitel Grundlagen wurde dementsprechen die Grundkozeption der Robotik,des Showcases und der Computervision erläutert.
+In dem Kapitel der Methodik wurde dann die wissesnschaftliche Methode des Prototyping nach Cole et. al. vorgestellt und dementsprechend das vorgehen der Arbeit beschrieben.
 Das Kapitel der Problem Identifizierung skiziert den Kontext, die Umgebung und die Probleme, welche durch den Prototypen addresiert werden sollen.
 Das darauffolgende Kapitel der Intervention beschreibt die Umsetzung der drei Zentralen Komponenten des Prototypen und deren Integration.
-Zuerst wurde die Programmierung des Roboters mit hilfe von RobotStudio und der Programmiersprache RAPID beschrieben.
+Zuerst wurde die Programmierung der Bewegungsroutine des Roboters mit hilfe von RobotStudio und der Programmiersprache RAPID beschrieben.
 Danach wurde die entwickelung der Gestenerkennung mithilfe der Microsoft Kinect V2 und der Programmiersprache Python und die verwendeten ComputerVision bibliotheken beschrieben.
 Um die Geste des Winkens zu erkennen wurde auch ein heuristischer Algorithmus entwickelt.
-Schliesslich wurde die Integration der beiden Komponenten durch die Entwicklung einer Schnittstelle beschrieben welche sich auf einem seperaten Kontrollserver befindet.
+Schliesslich wurde die Integration der beiden Komponenten durch die Entwicklung einer Schnittstelle beschrieben welche mit einem Seperaten Kontrollserver umgesetzt wurde.
 Im Letzten kapitel findet eine genaue Analyse der Schwaechen des Prototyp statt, dabei wird nach den Anforderungen vorgegangen, welche im ersten Schritt der Methode des Prototyping identifiziert wurden.
 Dabei wird auch die Frage beantwortet, ob der Prototyp die Anforderungen erfüllt und ob er die Probleme löst, welche in dessen Umgebung identifiziert wurden.
 
 Reflektion:
-Die vorliegende Arbeit zeit, dass erfolgreich ein Prototyp erstellt worden ist, der die grundelgenden bedinungnen erfuellt, jedoch von weiteren Integrationen der Entwickelungen profitieren wuerde.
+Die vorliegende Arbeit Zeigt, dass erfolgreich ein Prototyp erstellt worden ist, der die grundelgenden Bedinungnen erfuellt, jedoch von weiteren Iterationen der Entwickelungen profitieren wuerde.
 Die dabei aus der Praxis stammende Forschungsfrage konnte durch die Erstellung des Artefaktes als solches beantwortet werden.
-Fuer die Loesung des praktischen Problemes, war die Forschungsfrage sehr gut geeignet, haette jedoch von weiteren begletenden wissenschaftlichen Fragestellungen profitieren koennen, 
-da sie als rein praktische Fragestellung in einem akademischen kontext einen zu weiten Fokus hat, welcher ohne weitere Forschungsfragen nur schwierig ausgeschoepft werden kann.
-Aehnliches gilt fuer die Methode des Prototyping, welche zwar sehr gut geeignet ist um die Anforderungen der Praxis zu loesen, 
-jedoch durch den einsatz von einer zusaectzlichen wissenschaftlichen Methodik zur fundierten erfassung der Anforderungen ergaenzt werden koennte.			
-In einer zweiten iteration des Prototyping wuerde es sich daher lohnen, die das bisherige Methodensprektrum um die der Design Science Research zu ergaenzten, um die Anforderungen der Praxis noch besser zu erfassen.
+Fuer die Loesung des praktischen Problemes, war die Forschungsfrage sehr gut geeignet, haette jedoch von weiteren begletenden wissenschaftlichen Fragestellungen ergaenzt werden koennen, 
+da sie als rein praktische Fragestellung in einem akademischen Kontext einen zu weiten Fokus hat, welcher ohne weitere Forschungsfragen nur schwierig ausgeschoepft werden konnte.
+Aehnliches gilt fuer die Methode des Prototyping, welche zwar sehr gut geeignet war um die Anforderungen der Praxis zu loesen, 
+jedoch durch den Einsatz von einer zusaectzlichen wissenschaftlichen Methodik um die anforderungen fundierter erfassung zu koennen, haette ergaenzt werden koennte.			
+In einer zweiten Iteration des Prototyping wuerde es sich daher lohnen,  das bisherige Methodensprektrum um die der Design Science Research zu ergaenzten, um die Anforderungen der Praxis noch besser zu erfassen.
 Auch hat die Evaluation einen starken Fokus auf die Anforderungen der Praxis, wobei auch hier eine zusaetzliche wissenschaftliche Methode die Arbeit gut ergaenzen wuerde.
 Jedoch darf dabei der Zeitliche Aufwand nicht unterschaetzt werden, da die Arbeit aufgrund der Komplexitaet der Thematik und der damit verbundenen Probleme bereits sehr zeitintensiv war.
-Basieren auf dem bisher erarbeiteten Prototypen, wuerde es sich lohnen, die Entwicklung des Prototypen in eine weitere iteration zu ueberfuehren, und in dieser durch zusaetzlich methoden die erfassung der Anforderungen zu verbessern.
-Dies haette in der ersten iteration und auch in der vorliegenden Arbeit den Zeitlichen rahmen ueberschritten, weshalb dies in einer weiteren iteration durchgefuehrt werden sollte.
-Weitere einschraenkende faktoren neben dem zeitlichen Rahmen, welcher durch die Komplexitaet der Thematik und der damit verbundenen Probleme bereits ausgeschöpft war, waren die Limitationen der Hardware.
-Die zur verfuegung stehende Hardware war fuer die Entwicklung des Prototypen ausreichend, grenzte jedoch die Entwicklungsmoeglichkeiten ein.
-
-
-	[] was kann man selber daraus lernen?
-			Programmierung von Robotern mit RobotStudio und RAPID
-			Programmierung von Gestenerkennung mit Python und OpenCV
-			Systematisches Vorgehen bei der Entwicklung von Prototypen
-			Prototyping als Methode fuer die Entwicklung von Prototypen
-
-
-		[] hab ich den Richtigen ansatz gefahren?
-			ja, da die anforderungen erfuellt wurden und die Probleme geloest wurden
-			jedoch haette ein bisschen mehr Design sience reseacrch nicht geschadet
-			die Problemdefinition haette wissenschaftlicher sein koennen
-			die endgueltige Evaluation haette weitere wissenschaftliche Methoden benoetigt
-			weitere iterationen waeren hilfreich gewesen, aber im zeitlichen Rahmen nicht moeglich
-
-		[] was sind einschraenkende randbedinungen gewehsen meiner Arbeit?
-			Hardware Limitationen seitens der Firma
-			zeitliche Limitationen seitens der Firma
-			Complexitaetslimitationen seitens der Firma (wartung durch nachfolgende studenten)
-
-		[] habe ich die richtigen werkzeuge verwendet?
-			die ferwendung von RobotStudio und RAPID war sinnvoll, da diese die vorgesehne software fuer
-			die programmierung von Robotern sind und auf schnelle und einfache weise die notwendigen funktionen zur verfuegung stellen
-			jedoch haette eine probrammierung auf basis von ROS deutchlich mehr moeglichkeiten geboten waere.
-			Python, numpy und OpenCV sind klassische Werkzeuge fuer die  und die ComputerVision und volkommen ausreichend fuer die gestenerkennung
-			anstelle von mediapipe haette auch die verwendung der Microsoft Kinect V2 SDK moeglich gewesen, jedoch nicht mehr unterstuetz und nicht mehr weiterentwickelt wird
-
+Basieren auf dem bisher erarbeiteten Prototypen, besteht die Moeglichkeit die Entwicklung in eine weitere iteration zu ueberfuehren, und in dieser durch zusaetzlich Methoden die Erfassung der Anforderungen zu verbessern.
+Dies haette in der ersten iteration und auch in der vorliegenden Arbeit den Zeitlichen rahmen ueberschritten.
+Weitere einschraenkende Faktoren neben dem zeitlichen Rahmen, welcher durch die Komplexitaet der Thematik und der damit verbundenen Probleme bereits ausgeschöpft war,
+war die begrenze Auswahl an Hardware und dementsprechen die begrenzte Auswahl an Software.
+Die die Frima zur verfuegung gestellte Hardware war fuer die Entwicklung des Prototypen ausreichend, grenzte jedoch die auswahl an Entwicklungsmoeglichkeiten ein.
+Beispielsweise war die zugrundeliegenede bewegungsroutine des Roboters in RobotStudio entwickelt worden, was eine verwendung eines offenen Frameworks wie ROS ausschloss.
+Auch war die entwickeltung der Gestenerkennung auf die Microsoft Kinect V2 beschränkt, da der Herstellter die Software Entwickelungs Kit nicht mehr supportet, weshalb die wahl eines offenen Frameworks wie pylibfreenect2 alternativlos war.
+Die Entwicklung des Prototypen war somit stark von der Hardware und der Software abhaengig, welche zur verfuegung standen.
+Zusaetzlich sollte das komplexitaetsnievau des gesammten Projektes moeglichst klein gehalten werden, um den Zeitlichen Rahmen fuer nachfolgende Entwickler gering zu halten.
+Dies war jedoch nicht immer moeglich, da die Komplexitaet der Thematik bereits sehr hoch war.
 
 Fazit und  Ausblick:
 Die vorliegende Arbeit zeigt, dass das der Prototyp die Anforderungen erfüllt und die Probleme löst.
@@ -63,4 +41,5 @@ Dabei wurde die Grundfunktionalität einer Gestenerkennung demonstriert, welche 
 Der Prototyp wurde in der Firma  Hewlett Packard Enterprise (HPE) entwickelt und ist in der Praxis bereits im Einsatz. 
 Weitere entwickelung in form sind wie von vornherein geplant, weshalb die einfache wartung ein wichtiger aspekt dieser Arbeit war.
 Die Entwicklung des dieses Artefaktes hat gezeigt, dass die Methode des Prototyping nach Cole et al. [Quelle] sehr gut geeignet ist um in der einen Prototypen zu entwickeln,
-welcher die Anforderungen der Praxis erfüllt. 
+welcher die Anforderungen der Praxis erfüllt, jedoch von weiteren wissenschaftlichen Methoden ergänzt werden sollte, um die Anforderungen der Praxis fundierter erfassen zu können.
+
