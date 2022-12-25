@@ -1,0 +1,50 @@
+
+Robo
+    ABB: 
+        Hersteller online tutorial:
+            https://www.youtube.com/watch?time_continue=5&v=JGKTlhS6Kvs
+
+        Hersteller werbematerial
+            https://docplayer.org/76043385-Abb-robotics-irb-yumi-produktpraesentation.html
+
+        Externes Tutorial:
+            https://www.youtube.com/watch?v=Qmn47UTq8xI
+            https://github.com/rparak/ABB-RobotStudio-YUMI
+
+    Colaborative Robots:
+        konference https://www.researchgate.net/publication/303809721_Human-Robot_Collaboration_-_New_Applications_in_Industrial_Robotics
+        journal: https://ieeexplore.ieee.org/document/8385413
+        https://www.sciencedirect.com/science/article/pii/S2212827119304780
+        journal https://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing/news/making-collaboration-with-robots-easier
+
+Kinect
+
+    Human Pose Estimation:
+        Konferenz:   https://openaccess.thecvf.com/content_cvpr_2013/html/Wang_Beyond_Physical_Connections_2013_CVPR_paper.html
+        Konferenz:   https://aip.scitation.org/doi/10.1063/5.0109949
+
+    OpenCV
+        Online Tutorial 
+            https://towardsdatascience.com/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9
+            https://pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/   
+            https://www.youtube.com/watch?v=01sAkU_NvOY
+
+        News:
+            https://winfuture.de/news,103109.html
+
+        Object Detection specifics:
+            https://pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+            https://docs.opencv.org/3.4/d0/da7/videoio_overview.html
+
+Controller
+    Flask 
+        Online Tutorial     
+            https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+            https://flask.palletsprojects.com/en/2.2.x/tutorial/
+    Ubuntu:
+        Hersteller seite https://ubuntu.com/tutorials/install-ubuntu-desktop#9-create-your-login-details
+
+
+Alles kombiniert:
+    Konferenx :
+        https://www.tib.eu/de/suchen/id/BLCP:CN604733697/Gesture-Based-Robot-Programming-Using-Microsoft?cHash=52b37b761d33fedb5bf1797aef3677df

@@ -26,7 +26,7 @@
     [X] Erleuterung des genauen prozesses des Prototyping in beziehung zur pa
 	[X] Einordnen in das Methodensprekturms der WI
 
-[] Komplette reformulierung des fazit kapitels
+[X] Komplette reformulierung des fazit kapitels
 		[X] Forschungsfrage,
 		[X] Wahl der Methode, 
 		~ [ ] umsetzung ~
@@ -40,12 +40,11 @@
 		~ [ ] war es sinnvol eine POC zu machen? ~
 		
 [] Ueberarbeitung der Quellen:
-	[] Google konferenz zitieren
-	3-4 Seiten
-	stakcoverflow verwenden oder ein youtube video
-	auch da gibt es FAQs, weiterreichende Programmier tutorien(nachtraegliche idee: github repos) 
-	primaerquellen und sekundaerkaellen sollen auch rein, da habe ich eine
-	geringe "praesentz"/quantitaet
-	reconfigurierung der aktuellen quellen
+	~ [] Google konferenz zitieren ~
+	[ TBD ] 3-4 Seiten
+	[X] stakcoverflow verwenden oder ein youtube video
+	[X] auch da gibt es FAQs, weiterreichende Programmier tutorien(nachtraegliche idee: github repos) 
+	[X] primaerquellen und sekundaerkaellen sollen auch rein, da habe ich eine geringe "praesentz"/quantitaet
+	[ ]reconfigurierung der aktuellen quellen
 
 [ ] Formatieren
